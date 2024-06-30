@@ -1,4 +1,7 @@
 {
-    "root": "tow-truck-website"
+    "root": ".",
+    "routes": {
+      "/**": "index.html"
+    }
   }
   
